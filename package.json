@@ -1,0 +1,16 @@
+{
+  "name": "api-tasks",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Lucas de Oliveira Ribeiro",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}
